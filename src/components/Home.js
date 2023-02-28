@@ -1,4 +1,5 @@
 import React from "react";
+// import Links from "./Links";
 
 function Home({ color, username, city }) {
   return (
